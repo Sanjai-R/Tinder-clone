@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.detectLocale": "off",
+    "terminal.integrated.env.linux": {
+    
+    },
+    "editor.renderWhitespace": "none",
+    "terminal.integrated.automationShell.linux": ""
+}
